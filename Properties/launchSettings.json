@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "winstlauncher": {
+      "commandName": "Project",
+      "commandLineArgs": "st"
+    }
+  }
+}
