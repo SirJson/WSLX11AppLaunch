@@ -5,8 +5,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <ApplicationIcon />
     <StartupObject />
-    <AssemblyName>WSLXAppLaunch</AssemblyName>
-    <RootNamespace>WSLXAppLaunch</RootNamespace>
+    <AssemblyName>RunX11App</AssemblyName>
+    <RootNamespace>RunX11App</RootNamespace>
   </PropertyGroup>
 
 </Project>

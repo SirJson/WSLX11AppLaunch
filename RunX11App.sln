@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29521.150
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSLXAppLaunch", "WSLXAppLaunch.csproj", "{A8DA9437-9C82-4018-8AE9-94262135DFCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunX11App", "RunX11App.csproj", "{A8DA9437-9C82-4018-8AE9-94262135DFCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
